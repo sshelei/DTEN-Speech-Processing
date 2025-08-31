@@ -1,0 +1,452 @@
+{
+    "threshold": "3",
+    "marker": "BAK"
+}{
+    "/root/data/ears_v2/clean_train_processed/p003/emo_guilt_sentences.wav": "2.986498993723232"
+}{
+    "/root/data/ears_v2/clean_train_processed/p003/sentences_01_fast.wav": "2.97985294519455"
+}{
+    "/root/data/ears_v2/clean_train_processed/p004/emo_sadness_freeform.wav": "2.9440022960148444"
+}{
+    "/root/data/ears_v2/clean_train_processed/p005/emo_sadness_freeform.wav": "2.796449291514125"
+}{
+    "/root/data/ears_v2/clean_train_processed/p006/emo_interest_freeform.wav": "2.979128428299881"
+}{
+    "/root/data/ears_v2/clean_train_processed/p007/emo_disappointment_freeform.wav": "2.9885610616058638"
+}{
+    "/root/data/ears_v2/clean_train_processed/p007/emo_interest_sentences.wav": "2.9392027822255242"
+}{
+    "/root/data/ears_v2/clean_train_processed/p008/emo_pain_sentences.wav": "2.9218544062551497"
+}{
+    "/root/data/ears_v2/clean_train_processed/p011/emo_confusion_freeform.wav": "2.3059099243334154"
+}{
+    "/root/data/ears_v2/clean_train_processed/p011/emo_embarassment_freeform.wav": "2.7279547878174317"
+}{
+    "/root/data/ears_v2/clean_train_processed/p011/emo_sadness_freeform.wav": "2.6439317626423455"
+}{
+    "/root/data/ears_v2/clean_train_processed/p011/emo_serenity_freeform.wav": "2.868684827813315"
+}{
+    "/root/data/ears_v2/clean_train_processed/p011/melodic_happy_birthday.wav": "2.8988902122952993"
+}{
+    "/root/data/ears_v2/clean_train_processed/p012/interjection_anger.wav": "2.7033220780066367"
+}{
+    "/root/data/ears_v2/clean_train_processed/p013/emo_anger_freeform.wav": "2.807956844341223"
+}{
+    "/root/data/ears_v2/clean_train_processed/p013/emo_confusion_freeform.wav": "2.5895873384720884"
+}{
+    "/root/data/ears_v2/clean_train_processed/p013/emo_contentment_freeform.wav": "2.8533077129824997"
+}{
+    "/root/data/ears_v2/clean_train_processed/p013/emo_embarassment_freeform.wav": "2.9896267069026767"
+}{
+    "/root/data/ears_v2/clean_train_processed/p013/emo_fear_freeform.wav": "2.552259279728997"
+}{
+    "/root/data/ears_v2/clean_train_processed/p013/emo_fear_sentences.wav": "2.8479130304094187"
+}{
+    "/root/data/ears_v2/clean_train_processed/p013/emo_guilt_freeform.wav": "2.884752459309278"
+}{
+    "/root/data/ears_v2/clean_train_processed/p013/emo_neutral_freeform.wav": "2.617877639103368"
+}{
+    "/root/data/ears_v2/clean_train_processed/p013/emo_pain_sentences.wav": "2.738307626256273"
+}{
+    "/root/data/ears_v2/clean_train_processed/p013/emo_realization_freeform.wav": "2.8217151311937045"
+}{
+    "/root/data/ears_v2/clean_train_processed/p013/melodic_happy_birthday.wav": "2.7069263909459407"
+}{
+    "/root/data/ears_v2/clean_train_processed/p013/rainbow_04_fast.wav": "2.8419476981802934"
+}{
+    "/root/data/ears_v2/clean_train_processed/p013/rainbow_07_fast.wav": "2.725914508994316"
+}{
+    "/root/data/ears_v2/clean_train_processed/p013/rainbow_07_highpitch.wav": "2.934796016541572"
+}{
+    "/root/data/ears_v2/clean_train_processed/p013/sentences_22_regular.wav": "2.545371581614648"
+}{
+    "/root/data/ears_v2/clean_train_processed/p014/emo_amazement_sentences.wav": "2.8835645886242647"
+}{
+    "/root/data/ears_v2/clean_train_processed/p014/emo_fear_freeform.wav": "2.9261698969958307"
+}{
+    "/root/data/ears_v2/clean_train_processed/p014/emo_serenity_freeform.wav": "2.930791963640675"
+}{
+    "/root/data/ears_v2/clean_train_processed/p014/emo_serenity_sentences.wav": "2.6785438082687785"
+}{
+    "/root/data/ears_v2/clean_train_processed/p015/emo_fear_freeform.wav": "2.9149988743466655"
+}{
+    "/root/data/ears_v2/clean_train_processed/p015/emo_relief_sentences.wav": "2.9255286265711056"
+}{
+    "/root/data/ears_v2/clean_train_processed/p015/rainbow_04_highpitch.wav": "2.7629730605346445"
+}{
+    "/root/data/ears_v2/clean_train_processed/p016/rainbow_03_slow.wav": "2.777740250842814"
+}{
+    "/root/data/ears_v2/clean_train_processed/p017/emo_adoration_freeform.wav": "2.645690272678634"
+}{
+    "/root/data/ears_v2/clean_train_processed/p017/emo_desire_freeform.wav": "2.982364337716407"
+}{
+    "/root/data/ears_v2/clean_train_processed/p017/emo_disappointment_freeform.wav": "1.6140986093681178"
+}{
+    "/root/data/ears_v2/clean_train_processed/p017/emo_disappointment_sentences.wav": "2.9344741959396323"
+}{
+    "/root/data/ears_v2/clean_train_processed/p017/emo_relief_freeform.wav": "2.8841445234666816"
+}{
+    "/root/data/ears_v2/clean_train_processed/p017/emo_relief_sentences.wav": "2.5606450102438543"
+}{
+    "/root/data/ears_v2/clean_train_processed/p017/emo_serenity_freeform.wav": "1.4945104299086416"
+}{
+    "/root/data/ears_v2/clean_train_processed/p017/emo_serenity_sentences.wav": "1.7065894620433852"
+}{
+    "/root/data/ears_v2/clean_train_processed/p017/sentences_17_regular.wav": "2.7474400258782463"
+}{
+    "/root/data/ears_v2/clean_train_processed/p018/emo_interest_sentences.wav": "2.496877188126296"
+}{
+    "/root/data/ears_v2/clean_train_processed/p018/rainbow_01_highpitch.wav": "2.993717759269595"
+}{
+    "/root/data/ears_v2/clean_train_processed/p019/emo_embarassment_freeform.wav": "2.789564460413977"
+}{
+    "/root/data/ears_v2/clean_train_processed/p019/emo_relief_freeform.wav": "2.9666177676525156"
+}{
+    "/root/data/ears_v2/clean_train_processed/p020/emo_serenity_freeform.wav": "2.959287034728113"
+}{
+    "/root/data/ears_v2/clean_train_processed/p020/freeform_speech_02.wav": "2.87410737534152"
+}{
+    "/root/data/ears_v2/clean_train_processed/p021/emo_pain_freeform.wav": "2.382967858039602"
+}{
+    "/root/data/ears_v2/clean_train_processed/p022/emo_embarassment_freeform.wav": "2.1450939490080247"
+}{
+    "/root/data/ears_v2/clean_train_processed/p023/emo_adoration_freeform.wav": "2.9071857968452903"
+}{
+    "/root/data/ears_v2/clean_train_processed/p025/rainbow_06_fast.wav": "2.6003742035821054"
+}{
+    "/root/data/ears_v2/clean_train_processed/p027/rainbow_03_fast.wav": "2.9399718107119632"
+}{
+    "/root/data/ears_v2/clean_train_processed/p028/emo_distress_sentences.wav": "2.9131962115595327"
+}{
+    "/root/data/ears_v2/clean_train_processed/p028/emo_guilt_sentences.wav": "2.943287564411265"
+}{
+    "/root/data/ears_v2/clean_train_processed/p028/rainbow_08_fast.wav": "2.6911289689905895"
+}{
+    "/root/data/ears_v2/clean_train_processed/p030/freeform_speech_02.wav": "2.639234891695975"
+}{
+    "/root/data/ears_v2/clean_train_processed/p031/emo_extasy_freeform.wav": "2.5641522741465907"
+}{
+    "/root/data/ears_v2/clean_train_processed/p033/emo_adoration_freeform.wav": "2.9137916675030713"
+}{
+    "/root/data/ears_v2/clean_train_processed/p033/freeform_speech_02.wav": "2.916548695869417"
+}{
+    "/root/data/ears_v2/clean_train_processed/p033/rainbow_01_fast.wav": "2.6508436791406043"
+}{
+    "/root/data/ears_v2/clean_train_processed/p033/rainbow_07_lowpitch.wav": "2.8766956291460457"
+}{
+    "/root/data/ears_v2/clean_train_processed/p033/sentences_01_slow.wav": "2.7677857882999"
+}{
+    "/root/data/ears_v2/clean_train_processed/p033/sentences_22_regular.wav": "2.8477311032424315"
+}{
+    "/root/data/ears_v2/clean_train_processed/p034/emo_desire_freeform.wav": "2.9760822139902614"
+}{
+    "/root/data/ears_v2/clean_train_processed/p034/emo_neutral_freeform.wav": "2.116960863236162"
+}{
+    "/root/data/ears_v2/clean_train_processed/p034/emo_relief_freeform.wav": "2.703846826975138"
+}{
+    "/root/data/ears_v2/clean_train_processed/p034/emo_sadness_sentences.wav": "2.666482143904211"
+}{
+    "/root/data/ears_v2/clean_train_processed/p034/emo_serenity_freeform.wav": "2.528018861542031"
+}{
+    "/root/data/ears_v2/clean_train_processed/p034/emo_serenity_sentences.wav": "2.388033374193447"
+}{
+    "/root/data/ears_v2/clean_train_processed/p034/interjection_filler.wav": "2.0280166577290344"
+}{
+    "/root/data/ears_v2/clean_train_processed/p034/rainbow_01_slow.wav": "2.6523942276371177"
+}{
+    "/root/data/ears_v2/clean_train_processed/p034/rainbow_06_lowpitch.wav": "2.8578982103101613"
+}{
+    "/root/data/ears_v2/clean_train_processed/p034/sentences_01_highpitch.wav": "2.9634454442930958"
+}{
+    "/root/data/ears_v2/clean_train_processed/p035/emo_serenity_freeform.wav": "2.578906777357202"
+}{
+    "/root/data/ears_v2/clean_train_processed/p036/emo_desire_freeform.wav": "2.359109625397161"
+}{
+    "/root/data/ears_v2/clean_train_processed/p036/emo_disappointment_freeform.wav": "2.5298278177635933"
+}{
+    "/root/data/ears_v2/clean_train_processed/p036/emo_fear_freeform.wav": "2.5323640973633346"
+}{
+    "/root/data/ears_v2/clean_train_processed/p036/emo_interest_freeform.wav": "2.161082841589596"
+}{
+    "/root/data/ears_v2/clean_train_processed/p036/emo_serenity_sentences.wav": "2.9473493266049524"
+}{
+    "/root/data/ears_v2/clean_train_processed/p037/interjection_greetings.wav": "2.8579945870777705"
+}{
+    "/root/data/ears_v2/clean_train_processed/p037/sentences_01_highpitch.wav": "2.925287816440128"
+}{
+    "/root/data/ears_v2/clean_train_processed/p038/emo_cuteness_sentences.wav": "2.8435991656153417"
+}{
+    "/root/data/ears_v2/clean_train_processed/p042/emo_adoration_sentences.wav": "2.7808879525874923"
+}{
+    "/root/data/ears_v2/clean_train_processed/p043/interjection_greetings.wav": "2.70901819176011"
+}{
+    "/root/data/ears_v2/clean_train_processed/p044/emo_embarassment_freeform.wav": "2.718474888489164"
+}{
+    "/root/data/ears_v2/clean_train_processed/p044/sentences_02_slow.wav": "2.975546763484258"
+}{
+    "/root/data/ears_v2/clean_train_processed/p046/emo_adoration_freeform.wav": "2.971452339277984"
+}{
+    "/root/data/ears_v2/clean_train_processed/p046/emo_confusion_freeform.wav": "2.8198428636195185"
+}{
+    "/root/data/ears_v2/clean_train_processed/p046/emo_desire_freeform.wav": "2.738517583031469"
+}{
+    "/root/data/ears_v2/clean_train_processed/p046/emo_desire_sentences.wav": "2.587903019163427"
+}{
+    "/root/data/ears_v2/clean_train_processed/p046/emo_fear_freeform.wav": "2.828995870061493"
+}{
+    "/root/data/ears_v2/clean_train_processed/p046/emo_pain_sentences.wav": "2.801139701499073"
+}{
+    "/root/data/ears_v2/clean_train_processed/p046/emo_serenity_freeform.wav": "2.6826818887415738"
+}{
+    "/root/data/ears_v2/clean_train_processed/p046/rainbow_01_slow.wav": "2.9611044285648562"
+}{
+    "/root/data/ears_v2/clean_train_processed/p048/emo_extasy_freeform.wav": "2.809339561002656"
+}{
+    "/root/data/ears_v2/clean_train_processed/p049/emo_confusion_freeform.wav": "2.8172140854960714"
+}{
+    "/root/data/ears_v2/clean_train_processed/p049/emo_disgust_freeform.wav": "2.7316873095359844"
+}{
+    "/root/data/ears_v2/clean_train_processed/p049/emo_pain_freeform.wav": "2.1290347402328087"
+}{
+    "/root/data/ears_v2/clean_train_processed/p049/emo_relief_freeform.wav": "2.817002042501963"
+}{
+    "/root/data/ears_v2/clean_train_processed/p049/emo_sadness_sentences.wav": "1.8183658570388468"
+}{
+    "/root/data/ears_v2/clean_train_processed/p049/emo_serenity_freeform.wav": "1.9151130940904182"
+}{
+    "/root/data/ears_v2/clean_train_processed/p049/rainbow_02_regular.wav": "2.975017673050301"
+}{
+    "/root/data/ears_v2/clean_train_processed/p049/rainbow_03_highpitch.wav": "2.575812585741643"
+}{
+    "/root/data/ears_v2/clean_train_processed/p049/rainbow_05_highpitch.wav": "2.672461328883672"
+}{
+    "/root/data/ears_v2/clean_train_processed/p049/rainbow_07_highpitch.wav": "2.729694074516575"
+}{
+    "/root/data/ears_v2/clean_train_processed/p050/emo_confusion_sentences.wav": "2.8410996053133726"
+}{
+    "/root/data/ears_v2/clean_train_processed/p051/emo_desire_freeform.wav": "2.897669354240618"
+}{
+    "/root/data/ears_v2/clean_train_processed/p051/emo_guilt_freeform.wav": "2.7805241728647156"
+}{
+    "/root/data/ears_v2/clean_train_processed/p051/emo_pain_freeform.wav": "2.478439502824727"
+}{
+    "/root/data/ears_v2/clean_train_processed/p051/rainbow_01_lowpitch.wav": "2.7390039700167743"
+}{
+    "/root/data/ears_v2/clean_train_processed/p051/rainbow_01_slow.wav": "2.9390987781080917"
+}{
+    "/root/data/ears_v2/clean_train_processed/p055/emo_confusion_sentences.wav": "2.9105211310325423"
+}{
+    "/root/data/ears_v2/clean_train_processed/p056/emo_disgust_freeform.wav": "2.738396322376454"
+}{
+    "/root/data/ears_v2/clean_train_processed/p056/emo_disgust_sentences.wav": "2.580973343618989"
+}{
+    "/root/data/ears_v2/clean_train_processed/p058/emo_amusement_freeform.wav": "2.5265620053118423"
+}{
+    "/root/data/ears_v2/clean_train_processed/p058/emo_amusement_sentences.wav": "2.930646361674132"
+}{
+    "/root/data/ears_v2/clean_train_processed/p058/emo_contentment_freeform.wav": "2.590314321899345"
+}{
+    "/root/data/ears_v2/clean_train_processed/p058/emo_serenity_freeform.wav": "2.9197437283619685"
+}{
+    "/root/data/ears_v2/clean_train_processed/p058/freeform_speech_04.wav": "2.6581649523479136"
+}{
+    "/root/data/ears_v2/clean_train_processed/p059/emo_embarassment_freeform.wav": "2.836342705830583"
+}{
+    "/root/data/ears_v2/clean_train_processed/p061/emo_disappointment_freeform.wav": "2.9076705635760205"
+}{
+    "/root/data/ears_v2/clean_train_processed/p061/emo_embarassment_sentences.wav": "2.9898120384364177"
+}{
+    "/root/data/ears_v2/clean_train_processed/p061/emo_guilt_freeform.wav": "2.818338212209516"
+}{
+    "/root/data/ears_v2/clean_train_processed/p061/freeform_speech_03.wav": "2.644447244797328"
+}{
+    "/root/data/ears_v2/clean_train_processed/p062/freeform_speech_01.wav": "1.9441364831068684"
+}{
+    "/root/data/ears_v2/clean_train_processed/p067/emo_amusement_freeform.wav": "2.9904876024509033"
+}{
+    "/root/data/ears_v2/clean_train_processed/p067/emo_contentment_freeform.wav": "2.9504703739726676"
+}{
+    "/root/data/ears_v2/clean_train_processed/p067/emo_embarassment_freeform.wav": "2.88911357791705"
+}{
+    "/root/data/ears_v2/clean_train_processed/p067/emo_guilt_sentences.wav": "2.9877575926303077"
+}{
+    "/root/data/ears_v2/clean_train_processed/p067/emo_relief_sentences.wav": "2.6887514602537057"
+}{
+    "/root/data/ears_v2/clean_train_processed/p067/emo_sadness_freeform.wav": "2.60050648659902"
+}{
+    "/root/data/ears_v2/clean_train_processed/p069/emo_cuteness_sentences.wav": "2.8994684149867087"
+}{
+    "/root/data/ears_v2/clean_train_processed/p070/emo_cuteness_freeform.wav": "2.4745924534545454"
+}{
+    "/root/data/ears_v2/clean_train_processed/p070/emo_fear_freeform.wav": "2.782620747049774"
+}{
+    "/root/data/ears_v2/clean_train_processed/p071/emo_desire_freeform.wav": "2.9309008195671096"
+}{
+    "/root/data/ears_v2/clean_train_processed/p071/rainbow_01_lowpitch.wav": "2.5967866991899187"
+}{
+    "/root/data/ears_v2/clean_train_processed/p071/rainbow_02_lowpitch.wav": "2.928220222521514"
+}{
+    "/root/data/ears_v2/clean_train_processed/p071/rainbow_04_highpitch.wav": "2.7889053903837624"
+}{
+    "/root/data/ears_v2/clean_train_processed/p071/rainbow_06_slow.wav": "2.6768270837387536"
+}{
+    "/root/data/ears_v2/clean_train_processed/p071/rainbow_08_fast.wav": "2.6889983003694917"
+}{
+    "/root/data/ears_v2/clean_train_processed/p072/rainbow_01_highpitch.wav": "2.816602986511794"
+}{
+    "/root/data/ears_v2/clean_train_processed/p072/rainbow_01_slow.wav": "2.850233132083528"
+}{
+    "/root/data/ears_v2/clean_train_processed/p072/rainbow_02_highpitch.wav": "2.9827600050583944"
+}{
+    "/root/data/ears_v2/clean_train_processed/p073/emo_cuteness_freeform.wav": "2.9833727914608894"
+}{
+    "/root/data/ears_v2/clean_train_processed/p073/emo_desire_freeform.wav": "2.8639383238009146"
+}{
+    "/root/data/ears_v2/clean_train_processed/p073/emo_embarassment_freeform.wav": "2.9321651621795644"
+}{
+    "/root/data/ears_v2/clean_train_processed/p073/emo_fear_freeform.wav": "2.8863201334383826"
+}{
+    "/root/data/ears_v2/clean_train_processed/p073/rainbow_04_lowpitch.wav": "2.5126298554778237"
+}{
+    "/root/data/ears_v2/clean_train_processed/p073/rainbow_05_slow.wav": "2.849954500772003"
+}{
+    "/root/data/ears_v2/clean_train_processed/p073/rainbow_06_lowpitch.wav": "2.953155651452914"
+}{
+    "/root/data/ears_v2/clean_train_processed/p073/sentences_01_slow.wav": "1.6513353580645493"
+}{
+    "/root/data/ears_v2/clean_train_processed/p076/rainbow_08_slow.wav": "2.9380407216535005"
+}{
+    "/root/data/ears_v2/clean_train_processed/p077/emo_confusion_freeform.wav": "2.5651480005106095"
+}{
+    "/root/data/ears_v2/clean_train_processed/p077/emo_contentment_freeform.wav": "2.4646325236071522"
+}{
+    "/root/data/ears_v2/clean_train_processed/p077/emo_cuteness_freeform.wav": "2.6434823466351216"
+}{
+    "/root/data/ears_v2/clean_train_processed/p077/emo_desire_freeform.wav": "1.0278354979759972"
+}{
+    "/root/data/ears_v2/clean_train_processed/p077/emo_embarassment_freeform.wav": "1.3550143989292684"
+}{
+    "/root/data/ears_v2/clean_train_processed/p077/emo_guilt_freeform.wav": "2.2667765936555617"
+}{
+    "/root/data/ears_v2/clean_train_processed/p077/emo_sadness_freeform.wav": "1.50755185951253"
+}{
+    "/root/data/ears_v2/clean_train_processed/p077/emo_serenity_sentences.wav": "2.998921467426635"
+}{
+    "/root/data/ears_v2/clean_train_processed/p078/emo_amazement_sentences.wav": "2.3519288337017827"
+}{
+    "/root/data/ears_v2/clean_train_processed/p078/emo_anger_sentences.wav": "2.8451832522460774"
+}{
+    "/root/data/ears_v2/clean_train_processed/p078/emo_disappointment_freeform.wav": "2.7820383780514235"
+}{
+    "/root/data/ears_v2/clean_train_processed/p078/emo_distress_freeform.wav": "2.9120600291814096"
+}{
+    "/root/data/ears_v2/clean_train_processed/p078/emo_extasy_sentences.wav": "2.842425567874624"
+}{
+    "/root/data/ears_v2/clean_train_processed/p078/emo_serenity_freeform.wav": "2.8942348275281584"
+}{
+    "/root/data/ears_v2/clean_train_processed/p078/freeform_speech_05.wav": "2.702361241213682"
+}{
+    "/root/data/ears_v2/clean_train_processed/p078/interjection_greetings.wav": "2.7294176489625688"
+}{
+    "/root/data/ears_v2/clean_train_processed/p078/rainbow_01_fast.wav": "2.5337736524919214"
+}{
+    "/root/data/ears_v2/clean_train_processed/p078/rainbow_01_regular.wav": "2.6644496669502584"
+}{
+    "/root/data/ears_v2/clean_train_processed/p078/rainbow_04_fast.wav": "2.992808159120976"
+}{
+    "/root/data/ears_v2/clean_train_processed/p078/rainbow_07_slow.wav": "2.8202052165790996"
+}{
+    "/root/data/ears_v2/clean_train_processed/p078/sentences_01_highpitch.wav": "2.95434366909174"
+}{
+    "/root/data/ears_v2/clean_train_processed/p079/emo_disappointment_freeform.wav": "2.881259231043354"
+}{
+    "/root/data/ears_v2/clean_train_processed/p081/rainbow_04_lowpitch.wav": "2.871707080320128"
+}{
+    "/root/data/ears_v2/clean_train_processed/p081/rainbow_08_highpitch.wav": "2.74671422386863"
+}{
+    "/root/data/ears_v2/clean_train_processed/p081/rainbow_08_lowpitch.wav": "2.894307860561188"
+}{
+    "/root/data/ears_v2/clean_train_processed/p082/emo_disappointment_freeform.wav": "2.9153638763540854"
+}{
+    "/root/data/ears_v2/clean_train_processed/p082/emo_interest_freeform.wav": "2.929714110685052"
+}{
+    "/root/data/ears_v2/clean_train_processed/p082/emo_pain_sentences.wav": "2.90215971243253"
+}{
+    "/root/data/ears_v2/clean_train_processed/p082/emo_serenity_freeform.wav": "2.8411885887728916"
+}{
+    "/root/data/ears_v2/clean_train_processed/p084/emo_neutral_freeform.wav": "2.7796837282598283"
+}{
+    "/root/data/ears_v2/clean_train_processed/p084/emo_neutral_sentences.wav": "2.9839963809134624"
+}{
+    "/root/data/ears_v2/clean_train_processed/p084/interjection_greetings.wav": "2.0301504168011464"
+}{
+    "/root/data/ears_v2/clean_train_processed/p084/melodic_happy_birthday.wav": "2.9432659717162917"
+}{
+    "/root/data/ears_v2/clean_train_processed/p084/sentences_02_slow.wav": "1.1012580061637558"
+}{
+    "/root/data/ears_v2/clean_train_processed/p085/emo_pain_freeform.wav": "2.781288431441412"
+}{
+    "/root/data/ears_v2/clean_train_processed/p087/emo_relief_freeform.wav": "2.8769070289884393"
+}{
+    "/root/data/ears_v2/clean_train_processed/p088/emo_amazement_sentences.wav": "2.823334437605486"
+}{
+    "/root/data/ears_v2/clean_train_processed/p088/emo_desire_freeform.wav": "2.867929341440373"
+}{
+    "/root/data/ears_v2/clean_train_processed/p088/emo_disappointment_sentences.wav": "2.972297450751952"
+}{
+    "/root/data/ears_v2/clean_train_processed/p088/emo_guilt_freeform.wav": "2.8927771336391945"
+}{
+    "/root/data/ears_v2/clean_train_processed/p088/emo_guilt_sentences.wav": "2.6287228105520937"
+}{
+    "/root/data/ears_v2/clean_train_processed/p088/emo_pain_freeform.wav": "2.797717421954888"
+}{
+    "/root/data/ears_v2/clean_train_processed/p088/rainbow_01_lowpitch.wav": "2.89579873933961"
+}{
+    "/root/data/ears_v2/clean_train_processed/p088/rainbow_01_regular.wav": "2.715657160946409"
+}{
+    "/root/data/ears_v2/clean_train_processed/p089/emo_sadness_freeform.wav": "2.3429245874030076"
+}{
+    "/root/data/ears_v2/clean_train_processed/p092/emo_cuteness_freeform.wav": "2.4650959201797606"
+}{
+    "/root/data/ears_v2/clean_train_processed/p092/rainbow_05_lowpitch.wav": "2.5061233728884718"
+}{
+    "/root/data/ears_v2/clean_train_processed/p092/sentences_01_highpitch.wav": "2.7512159446230395"
+}{
+    "/root/data/ears_v2/clean_train_processed/p093/emo_disappointment_freeform.wav": "2.742745957115764"
+}{
+    "/root/data/ears_v2/clean_train_processed/p093/emo_disgust_freeform.wav": "2.901994717307298"
+}{
+    "/root/data/ears_v2/clean_train_processed/p093/emo_embarassment_freeform.wav": "2.7517572026088537"
+}{
+    "/root/data/ears_v2/clean_train_processed/p093/freeform_speech_03.wav": "2.9695373437313384"
+}{
+    "/root/data/ears_v2/clean_train_processed/p095/emo_embarassment_freeform.wav": "2.994400957196156"
+}{
+    "/root/data/ears_v2/clean_train_processed/p095/emo_guilt_sentences.wav": "2.936012714870785"
+}{
+    "/root/data/ears_v2/clean_train_processed/p096/emo_amusement_sentences.wav": "2.9163547690706553"
+}{
+    "/root/data/ears_v2/clean_train_processed/p096/emo_fear_freeform.wav": "1.8052464190078263"
+}{
+    "/root/data/ears_v2/clean_train_processed/p096/emo_realization_freeform.wav": "2.7963665958424504"
+}{
+    "/root/data/ears_v2/clean_train_processed/p097/rainbow_08_slow.wav": "2.8982972499968502"
+}{
+    "/root/data/ears_v2/clean_train_processed/p100/emo_sadness_freeform.wav": "2.8034222026377225"
+}{
+    "/root/data/ears_v2/clean_train_processed/p101/emo_distress_sentences.wav": "2.9899392429792924"
+}{
+    "/root/data/ears_v2/clean_train_processed/p103/freeform_speech_02.wav": "1.618936669518903"
+}{
+    "/root/data/ears_v2/clean_train_processed/p103/rainbow_07_highpitch.wav": "2.8681831169474687"
+}{
+    "/root/data/ears_v2/clean_train_processed/p105/emo_desire_freeform.wav": "1.5464713550210871"
+}{
+    "/root/data/ears_v2/clean_train_processed/p105/emo_embarassment_freeform.wav": "2.803699621784212"
+}{
+    "/root/data/ears_v2/clean_train_processed/p105/emo_fear_freeform.wav": "2.3697428437971646"
+}{
+    "/root/data/ears_v2/clean_train_processed/p106/emo_realization_sentences.wav": "2.9968703947906197"
+}{
+    "/root/data/ears_v2/clean_train_processed/p107/emo_fear_freeform.wav": "2.7987042555155313"
+}
