@@ -31,17 +31,21 @@ During the internship, I:
 - Automated audio-quality evaluation and result export
 
 ## My Contributions
+Pipeline Specific (`src/`)
 - `clean_preprocess.py` — implemented batch audio preprocessing and integration
   of pretrained MossFormer speech enhancement
 - `clean_filter.py` — automated DNSMOS evaluation and CSV/JSON result generation
 - `audio_preprocess.py` — automated batch execution of audio preprocessing
 - `info.py` — validated WAV files and dataset formatting
+- `evaluate_files.py` - evaluate files based on chosen metrics
+
+Helper (`helper_scripts/`) are intended for small steps like converting to WAV format, separating into subfolders, checking dataset formatting.
 
 ## Supporting Code
 
 Some scripts in this repository named below were provided as
 part of the existing internship project and were used to generate or prepare
-audio for the processing workflow.
+audio for the processing workflow. They are in `provided/`
 - `simulate_room.py` — provided room-simulation utility used to generate noisy test audio
 - `download_dns.sh` — helper script to download audio files
 

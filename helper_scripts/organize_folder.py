@@ -35,4 +35,4 @@ else:
             dest_path = os.path.join(subfolder_path, file_name)
             shutil.move(src_path, dest_path)
 
-    print("✅ Files have been separated into subfolders.")
+    print("Files have been separated into subfolders.")
