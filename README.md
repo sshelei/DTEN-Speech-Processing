@@ -30,13 +30,25 @@ During the internship, I:
 - Added batch-processing support for speech enhancement
 - Automated audio-quality evaluation and result export
 
-## Repository Structure
+## My Contributions
+- `clean_preprocess.py` — implemented batch audio preprocessing and integration
+  of pretrained MossFormer speech enhancement
+- `clean_filter.py` — automated DNSMOS evaluation and CSV/JSON result generation
+- `audio_preprocess.py` — automated batch execution of audio preprocessing
+- `info.py` — validated WAV files and dataset formatting
 
-- `clean_preprocess.py` — audio preprocessing and speech enhancement
-- `clean_filter.py` — DNSMOS evaluation and quality filtering
-- `audio_preprocess.py` — batch audio processing utilities
-- `info.py` — WAV format validation
+## Supporting Code
 
+Some scripts in this repository named below were provided as
+part of the existing internship project and were used to generate or prepare
+audio for the processing workflow.
+- `simulate_room.py` — provided room-simulation utility used to generate noisy test audio
+- `download_dns.sh` — helper script to download audio files
+
+## External Resources
+- `download_ears.py` — helper script to download files used to train
+      Downloaded from Meta's EARS Dataset repository (https://github.com/facebookresearch/ears_dataset.git)
+  
 ## Purpose
 
 The workflow was developed to reduce manual processing when preparing and evaluating speech recordings for speech-enhancement experiments.
